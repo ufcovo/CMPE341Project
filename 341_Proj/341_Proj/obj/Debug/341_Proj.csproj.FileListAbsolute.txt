@@ -1,0 +1,12 @@
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\bin\Debug\341_Proj.exe.config
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\bin\Debug\341_Proj.exe
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\bin\Debug\341_Proj.pdb
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\bin\Debug\Oracle.VsDevTools.EntityFramework.16.0.dll
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\_341_Proj.Form1.resources
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\_341_Proj.Properties.Resources.resources
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.csproj.CopyComplete
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.exe
+C:\Users\yigit\Desktop\db proje\341_Proj\341_Proj\obj\Debug\341_Proj.pdb
